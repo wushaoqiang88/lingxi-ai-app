@@ -1,0 +1,1 @@
+export 'local_exporter_stub.dart' if (dart.library.io) 'local_exporter_io.dart';
